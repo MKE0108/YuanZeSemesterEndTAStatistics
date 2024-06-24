@@ -1,4 +1,9 @@
 # 期末助教統計(各招生管道學生入學後表現之大數據分析)
+## 環境
+```bash
+conda create --name yzuTA --file requirements.txt -y
+conda activate yzuTA
+```
 ## 資料
 1. 入學管道
 + 老師提供(????.xlsx)
